@@ -16,7 +16,7 @@ Kevin Mi
 
 **Activity 4**
 
-https://github.com/frankzhongzd/ECE444-F2022-EP
+https://github.com/frankzhongzd/ECE444-F2022-Lab1
 
 ![](images/Activity4.png)
 
