@@ -16,11 +16,11 @@ Kevin Mi
 
 **Activity 4**
 
-[Link to your teammate's repo]
+https://github.com/frankzhongzd/ECE444-F2022-EP
 
-[Screenshot of the commit you made to your teammate's repo]
+![](images/Activity4.png)
 
-[Screenshot of the commit your teammate made to your repo]
+![](images/Activity4(1).png)
 
 **Activity 5**
 
